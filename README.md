@@ -1,6 +1,8 @@
 logrus-octokit-hook
 ==========
 
+# Caution : Github don't like to use github issue as a log hook. If you send issues oftenly, your github account can be block. Use this hook carefully.:D
+
 Package logrus-octokit-hook provides a Github hook using the [octokit] for the [logrus] loggin package.
 
 ## Mehtod
